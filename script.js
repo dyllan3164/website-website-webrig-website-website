@@ -179,7 +179,7 @@ if (btnSubmit) {
     const next = document.querySelector(".next");
     next.setAttribute(
       "value",
-      "https://website-website-webrig-website-website.netlify.app/contact.html"
+      "https://website-website-webrig-website-website-frz9m9p5g.vercel.app/contact.html"
     );
   });
 }
